@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "backroadsautowash",
+  "compatibility_date": "2026-06-15",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "back-roads-auto-wash-v3(1)"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
